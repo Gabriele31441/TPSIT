@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>Guida per uso dei Socket</title>
-  </head>
   <body>
     <h1>
       Socket
